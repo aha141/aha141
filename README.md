@@ -4,13 +4,13 @@
 <!--- ###HeLLo 👋 I'm Shashank Singh--->
 
 
-☁️ I’m currently working on Google Cloud ...
-📈 I’m currently learning Full stack
-😅 I'm not an expert but can help in programming...
-📫 Reach me at instagram @alpha_ft.rozen
-😄 Pronouns: He/Him...
-🤡 Fun fact: "I love playing PC games instead of coding..."
-📧 Email me at shashank9354@gmail.com
+- ☁️ I’m currently working on Google Cloud ...
+- 📈 I’m currently learning Full stack
+- 😅 I'm not an expert but can help in programming...
+- 📫 Reach me at instagram @alpha_ft.rozen
+- 😄 Pronouns: He/Him...
+- 🤡 Fun fact: "I love playing PC games instead of coding..."
+- 📧 Email me at shashank9354@gmail.com
 
 
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=Deepayan-Thakur&label=Total%20views&color=0088ff&style=metal" alt="Deepayan-Thakur">
@@ -21,7 +21,7 @@
 
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" alt="Deepayan-Thakur" />
-<a align="center" href="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" target="blank">
+
 </p>
 
 <h3 align="center">Follow Me :</h3> 
