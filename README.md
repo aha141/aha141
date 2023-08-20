@@ -1,4 +1,4 @@
-
+![logo](https://github.com/aha141/Shashank_Singh/blob/main/Brown%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner%20.png)
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/nhYIwesZ87oAAAAd/rytis-modestas.gif">
