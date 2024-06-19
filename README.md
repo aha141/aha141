@@ -7,13 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **Full stack Web development**
+- 🌱 I’m currently learning **Python and Data Science**
   
 - ☁️ I’m currently working on  **Google Cloud**
   
 - 📧 Email me at [shashank9354@gmail.com](shashank9354@gmail.com)
-
-- 📫 Reach me at instagram **@alpha_ft.rozen**
 
 - ⚡ Fun fact **"I love playing PC games instead of coding..."**
 
