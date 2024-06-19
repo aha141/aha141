@@ -1,6 +1,6 @@
 ![logo](https://github.com/aha141/Shashank_Singh/blob/main/Brown%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner%20.png)
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate AI & ML student from India</h3>
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/nhYIwesZ87oAAAAd/rytis-modestas.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aha141&label=Profile%20views&color=0e75b6&style=flat" alt="aha141" /> </p>
